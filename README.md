@@ -2,6 +2,7 @@
 
 The logo of this organization.
 
-Created by ArielAxionL.
+Created by ArielAxionL.Powered by inkscape.
 
-Powered by inkscape.
+## Preview
+![image](ResistanceCN.png)
